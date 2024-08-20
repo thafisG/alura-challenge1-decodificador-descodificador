@@ -1,2 +1,2 @@
-# alura-challenge1-decodificador-descodificador
-Challenge proposto pela Alura + Oracle através do Programa One - Oracle Next Education.
+# Decodificador Alura + Oracle
+Challenge proposto pela Alura + Oracle através do Programa One - Oracle Next Education
