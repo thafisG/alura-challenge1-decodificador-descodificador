@@ -1,3 +1,4 @@
+//Seletores
 const input = document.querySelector("#input-texto");
 const btnCriptografar = document.querySelector("#btn-criptografar");
 const btnDescriptografar = document.querySelector("#btn-descriptografar");
@@ -83,3 +84,4 @@ function inputverificar() {
     }
   });
 }
+
